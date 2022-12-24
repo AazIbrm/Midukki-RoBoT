@@ -37,7 +37,7 @@ async def reloaddbchat(client: Midukki_RoboT, message):
     if (st.status != enums.ChatMemberStatus.OWNER and str(userid) not in Configs.ADMINS_ID ):
         return
 
-    await db.delete_chat(int(grp_id))
+    await db.delete_chat(grp_id)
     await message.reply(f"Successfully reloaded Database")
 
 @Midukki_RoboT.on_message(setting_command)
