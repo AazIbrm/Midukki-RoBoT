@@ -267,12 +267,12 @@ class vars(object):
         [
             button()
                 (
-                    "Group",
-                        url="https://t.me/sanusmovies"
+                    "Support",
+                        url="https://t.me/+cHFG071nmPsyYzBh"
                 ),
             button()
                 (
-                    "Channel",
+                    "Updates",
                         url="https://t.me/sanusmoviesch"
                 )
         ],
