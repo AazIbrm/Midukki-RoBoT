@@ -198,14 +198,15 @@ BAN_TXT = """
 """
 
 PIN_TXT = """
-**--MODULE OF PIN--** 📌
-
-● all the pin related commands can be found here; keep your chat up to date on the latest news with a simple pinned message!
-
-🔋 **--Commands and Usage**-- :
-
-◉ /pin : Pin the message you replied to message to send a notification to group members
-◉ /unpin : Unpin the current pinned message. if used as a reply, unpins the replied to message
+DISCLAIMER NOTE‼️:
+- @Sanufilterv1_bot is an Open Source Project.
+All the files in this bot are freely available on the internet or posted by somebody else. 
+This bot is indexing files which are already uploaded on Telegram for easy of searching, We respect all the copyright laws and works in compliance with DMCA and EUCD. 
+If anything is against law please contact us so that it can be removed asap. 
+It is forbidden to download, stream, reproduce, or by any means, share, or consume, content without explicit permission from the content creator or legal copyright holder. 
+If you believe this bot is violating your intellectual property, contact the respective channels for removal. 
+The Bot does not own any of these contents, it only index the files from telegram. 
+For any content removal contact admin it will be remove instantly
 """
 
 ADMIN_PANEL = """
