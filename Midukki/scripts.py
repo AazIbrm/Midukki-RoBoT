@@ -8,6 +8,13 @@ I'm here to help you manage your groups! Hit /help to find out more about how to
 Join <b><a href=http://t.me/sanufilterv1_botgrp>my news channel</a></b> to get information on all the latest updates
 """
 
+DISCLAIMER _TXT = """
+DISCLAIMER NOTE‼️:
+- @Sanufilterv1_bot is an Open Source Project. All the files in this bot are freely available on the internet or posted by somebody else. This bot is indexing files which are already uploaded on Telegram for easy of searching, We respect all the copyright laws and works in compliance with DMCA and EUCD. If anything is against law please contact us so that it can be removed asap. It is forbidden to download, stream, reproduce, or by any means, share, or consume, content without explicit permission from the content creator or legal copyright holder. If you believe this bot is violating your intellectual property, contact the respective channels for removal. The Bot does not own any of these contents, it only index the files from telegram. 
+
+For any content removal contact admin it will be remove instantly
+"""
+
 HELP_TXT = """
 👋 <b>Hello {mention}!</b>
 
