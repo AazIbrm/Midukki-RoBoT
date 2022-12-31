@@ -265,11 +265,9 @@ class vars(object):
                 )
         ],
         [
-            button()
-                (
-                    "Disclaimer ",
-                        url=f"https://t.me/disclamerofcopyrights"
-                )
+            button()(
+               "Disclaimer", callback_data="maincb+pin_cb"
+            )
         ],
         [
             button()
@@ -318,7 +316,7 @@ class vars(object):
         ],
         [     
             button()(
-                "📌Pin", callback_data="maincb+pin_cb"
+                "Claim", callback_data="maincb+pin_cb"
             ),
             button()(
                 "🗣️Spell", callback_data="maincb+spell_cb"
