@@ -261,7 +261,14 @@ class vars(object):
             button()
                 (
                     "➕️ Add Me To Your Group ➕️",
-                        url=f"https://t.me/{Bots.BOT_USERNAME}?startgroup=new"
+                        url=f"https://t.me/Sanufilterv1_bot?startgroup=new"
+                )
+        ],
+        [
+            button()
+                (
+                    "Disclaimer ",
+                        url=f"https://t.me/disclamerofcopyrights"
                 )
         ],
         [
