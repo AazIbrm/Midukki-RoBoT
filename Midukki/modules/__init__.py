@@ -272,24 +272,24 @@ class vars(object):
         [
             button()
                 (
-                    "Support",
+                    "☛Gʀᴏᴜᴘ☚",
                         url="https://t.me/+cHFG071nmPsyYzBh"
                 ),
             button()
                 (
-                    "Updates",
+                    "☛Cʜᴀɴɴᴇʟ☚",
                         url="https://t.me/sanusmoviesch"
                 )
         ],
         [
             button()
                 (
-                    "Help",
+                    "☛Help☚",
                         callback_data="maincb+help_cb"
                 ),
             button()
                 (
-                    "About",
+                    "☛About☚",
                        callback_data="maincb+about_cb"
                 )
         ]
