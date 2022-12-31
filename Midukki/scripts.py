@@ -1,11 +1,8 @@
 START_TXT = """
-Hello 👋 {mention} 
+𝙷𝙴𝙻𝙾 {mention},
+𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 ǟռɖʀօɨɖ ₭Ʉ₦J₳₱₱₳₦, 𝙃𝙊𝙒 𝘾𝘼𝙉 𝙄 𝙃𝙀𝙇𝙋 𝙔𝙊𝙐, 𝙏𝙃𝙄𝙎 𝘽𝙊𝙏 𝙄𝙎 𝘾𝙊𝙈𝙋𝙇𝙀𝙏𝙀𝙇𝙔 𝙈𝘼𝘿𝙀 𝘽𝙔 𝙏𝙀𝘼𝙈 𝙎𝘼𝙉𝙐𝙎𝙈𝙊𝙑𝙄𝙀𝙎 🎭
 
-I'm <b>{bot}</b> ✨ an advanced telegram Group management
-
-I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential..!
-
-Join <b><a href=http://t.me/sanufilterv1_botgrp>my news channel</a></b> to get information on all the latest updates
+𝐉𝐎𝐈𝐍 𝐌𝐘 <a href=https://t.me/sanufilterv1_botgrp>𝐔𝐏𝐃𝐀𝐓𝐄𝐒</a> 𝐓𝐎 𝐆𝐄𝐓 𝐌𝐎𝐑𝐄 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
 """
 
 DISCLAIMER_TXT = """
@@ -31,14 +28,15 @@ I Can Guide You Through All Of <b>{bot}</b>'s Cool Features And How To Properly 
 """
 
 ABOUT_TXT = """
-[{name}](t.me/{username}) Was created on September 4, 2022
-We are currently developing this bot, using only the Pyrogram library.
-credits to muhammed and motech Channel
-➾ Developers : @Thisis_sanu
-➾ Language : Python3
-➾ Framework : Pyrogram
-➾ Database : Mongo dub
-➾ Server : Railway
+✯ Mʏ Nᴀᴍᴇ: ǟռɖʀօɨɖ ₭Ʉ₦J₳₱₱₳₦
+✯ Lɪʙʀᴀʀʏ: Pʏʀᴏɢʀᴀᴍ
+✯ Dᴇᴠᴏʟᴏᴘᴇʀ: <a href=http://t.me/Thisis_sanu>𝐒ል𝐍ሁ❀</a>
+✯ Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 3
+✯ DᴀᴛᴀBᴀsᴇ: MᴏɴɢᴏDB
+✯ Bᴏᴛ Sᴇʀᴠᴇʀ: ʀᴀɪʟᴡᴀy
+✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.0.3 [ Sᴛᴀʙʟᴇ ]
+
+🔐 ᴄʀᴇᴅɪᴛꜱ ᴛᴏ ᴍᴏᴛᴇᴄʜ yᴛ ᴀɴᴅ ᴍᴜʜᴀᴍᴍᴇᴅ
 """
 
 DONATE_TXT = """
